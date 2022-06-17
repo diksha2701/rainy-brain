@@ -46,6 +46,12 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 * Out of these catboost is top.
 * The conclusion were made using classification metrics. roc curve and auc score
 
+#how to run code:
+* download file and open in system
+* write cmd in searchline 
+* write conda activate myenv
+* again write python app.py
+* then copy address and paste in local web browser.
 
 
 
